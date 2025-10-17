@@ -1,7 +1,9 @@
 # 🧠 Imersão Inteligência Artificial - Aula 04
 ### **Análise Introdutória de Dados e Conceitos de I.A.**
 
-Este repositório contém os códigos e insights desenvolvidos durante a Aula 04 da Imersão em Inteligência Artificial. O projeto serviu como um laboratório prático para aplicar conceitos iniciais de manipulação de dados em Python, fundamentais para projetos de Data Science e Machine Learning.
+Este repositório contém os códigos e insights desenvolvidos durante a Aula 04 da Imersão em Inteligência Artificial. 
+O projeto serviu como um laboratório prático para aplicar conceitos iniciais de manipulação de dados em Python, 
+fundamentais para projetos de Data Science e Machine Learning.
 
 ---
 
@@ -9,7 +11,7 @@ Este repositório contém os códigos e insights desenvolvidos durante a Aula 04
 
 * **Prática de Python:** Aplicar os fundamentos da linguagem Python para manipulação de *arrays* e listas.
 * **Análise de Dados:** Realizar uma análise exploratória inicial sobre a base de dados fornecida.
-* **Conceitos de I.A.:** Entender a estrutura de dados necessária para alimentar modelos de I.A. [cite_start](demonstrando a Lógica de Sistemas mencionada em meu CV [cite: 52]).
+* **Conceitos de I.A.:** Entender a estrutura de dados necessária para alimentar modelos de I.A.
 
 ---
 
@@ -21,7 +23,7 @@ Este projeto foi desenvolvido utilizando as seguintes ferramentas:
 | :--- | :--- | :--- |
 | **Linguagem Principal** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Linguagem foco para Back-end e Análise de Dados. |
 | **Ambiente** | ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) | Ideal para prototipagem e análise exploratória de dados. |
-| **Controle de Versão** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) / ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) | [cite_start]Demonstra habilidades em trabalho colaborativo e versionamento de código[cite: 59]. |
+| **Controle de Versão** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) / ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) | 
 
 ---
 
@@ -29,7 +31,7 @@ Este projeto foi desenvolvido utilizando as seguintes ferramentas:
 
 **Manipulação de Estruturas de Dados:** Prática na manipulação de estruturas essenciais (listas/arrays).
 **Leitura de Dados:** Processo de importação e validação inicial da integridade dos dados, crucial para garantir o **Foco em Qualidade** 
-* **Metodologia:** Experiência prática com a metodologia de estudo de I.A. (indicando meu **Aprendizado Contínuo** 
+**Metodologia:** Experiência prática com a metodologia de estudo de I.A. ** 
 
 ---
 
